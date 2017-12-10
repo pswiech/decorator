@@ -1,5 +1,4 @@
-# decorator
-Decorator Design Pattern
+# Decorator Design Pattern
 
 Dynamically adds responsibility to the interface by wrapping the original code
 https://en.wikipedia.org/wiki/Decorator_pattern
